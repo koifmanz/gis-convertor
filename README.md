@@ -11,3 +11,4 @@ After you found it change the line:
 Change the number after the epsg (2039 = Israel). 
 For more info check pyproj docs at: https://code.google.com/p/pyproj/
   
+Part (big part) of the code form  https://gist.github.com/erans/983821
