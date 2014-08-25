@@ -1,0 +1,3 @@
+Pillow==2.5.1
+geopy==1.1.2
+pyproj==1.9.3
