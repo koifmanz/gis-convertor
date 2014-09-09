@@ -80,7 +80,7 @@ def reproject_wgs_to_itm(longitude, latitude):
         return None, None
     else:
         prj_wgs = Proj(init='epsg:4326')
-        prj_itm = Proj(init='epsg:2039')
+        prj_itm = Proj(init='epsg:2039') #change here for diffrent reference
         x, y = transform(prj_wgs, prj_itm, longitude, latitude)
         return x, y
 
