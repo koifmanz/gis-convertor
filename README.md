@@ -3,7 +3,7 @@ gis-convertor
 
 #### Why?
 
-My father need a tool to pull gis data from pics, convert it (from wgs84 to itm) and save all in a csv file. I did not write all the code. Parts of the code is from https://gist.github.com/erans/983821.
+My father need a tool to pull gis data from pics, convert it (from wgs84 to itm) and save all in a csv file. I did not write all the code, Parts of the code is from https://gist.github.com/erans/983821.
 
 
 
